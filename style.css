@@ -19,7 +19,7 @@ body {
  }
 
 .header {
- padding: 40px 0;
+ padding: 40px;
  display: flex;
  justify-content: space-between;
  margin-bottom: 100px;
@@ -27,7 +27,7 @@ body {
 }
 
 .menu {
- padding: 40px 0;
+ padding: 40px;
  display: flex;
  align-items: center;
 }
