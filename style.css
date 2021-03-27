@@ -19,7 +19,7 @@ body {
  }
 
 .header {
- padding: 0 0 40px 0;
+ padding: 40px 0;
  display: flex;
  justify-content: space-between;
  margin-bottom: 100px;
