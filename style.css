@@ -46,7 +46,7 @@ transition: opacity .5s;
 
 head {
   font-family: 'pt_serifbold';
-    src: url('ptserif-bold-webfont.woff') format('woff');
+    src: url('fonts/ptserif-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
