@@ -121,6 +121,18 @@ head {
  background: #ECF3FF;
 }
 
+.menu__item:after {
+ position: absolute;
+ left: 0;
+ display: block;
+ content: '';
+ width: 0;
+ height: 3px;
+ background: #0056EC;
+ opacity: 0;
+ transition: opacity .5s, width .5s;
+}
+
 .main__button:hover {
  opacity: .5;
 }
