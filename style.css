@@ -119,8 +119,7 @@ head {
 
 .main {
  padding: 0 80% 100px 0;
- background: top right no-repeat url(img/Frame.svg);
- background-position: center right;
+ background: center right top right no-repeat url(img/Frame.svg);
 }
 
 .main__title-text_highlight {
