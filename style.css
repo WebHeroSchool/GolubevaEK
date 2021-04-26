@@ -125,7 +125,7 @@ head {
  opacity: .5;
 }
 
-@media (max-width: 760px){
+@media (max-width: 1024px){
   .menu {
     display: none;
   }
