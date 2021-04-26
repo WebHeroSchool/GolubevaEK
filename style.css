@@ -85,6 +85,22 @@ head {
   width: 100%;
 }
 
+.main-content {
+ padding-top: 100px;
+ width: 37%;
+}
+
+.main-content__title {
+ margin-bottom: 40px;
+ font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+}
+
+
+.main-content__subtitle {
+ margin-bottom: 41px;
+ font: 18px/21px Roboto, arial, helvetica, sans-serif;
+}
+
 .main {
  padding-top: 100px;
  width: 37%;
