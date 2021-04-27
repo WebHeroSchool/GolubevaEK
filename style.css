@@ -152,7 +152,7 @@ head {
  background: #0056EC;
 }
 
-@media (max-width: 1170px) and (max-width: 1920px) {
+@media (max-width: 1920px) {
   .menu {
     display: none;
   }
