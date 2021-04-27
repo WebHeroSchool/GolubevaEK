@@ -15,7 +15,7 @@ body {
 
  .logo{
    height: 35px;
-   background: url('img/logo.svg');
+   background: url(img/logo.svg);
  }
 
 .header {
