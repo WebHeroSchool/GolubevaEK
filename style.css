@@ -188,7 +188,6 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
    cursor: pointer;
    z-index: 1;
  }
- @media (max-width: 375px) {
  /* добавляем "гамбургер" */
  .menu__btn > span,
  .menu__btn > span::before,
@@ -265,4 +264,3 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 .menu__item {
   transition-duration: .25s;
  }
-}
