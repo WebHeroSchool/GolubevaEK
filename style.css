@@ -181,7 +181,6 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
    align-items: center;  /* центрируем содержимое кнопки */
    position: fixed;
    top: 20px;
-   left: 20px;
    width: 26px;
    height: 26px;
    cursor: pointer;
