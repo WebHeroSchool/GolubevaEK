@@ -173,8 +173,6 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 }
 
 @media (max-width: 375px) {
-  .menu {
-    display: block;
  /* скрываем чекбокс */
  #menu__toggle {
    opacity: 0;
