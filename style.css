@@ -115,7 +115,7 @@ font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
  background: top right no-repeat url(img/Frame.svg);
 }
 
-.main__title-text_light {
+.main__title-text_highlight {
  background: #ECF3FF;
 }
 
