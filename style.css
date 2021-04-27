@@ -179,7 +179,6 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
  }
  /* стилизуем кнопку */
  .menu__btn {
-   display: block;
    display: flex; /* используем flex для центрирования содержимого */
    align-items: center;  /* центрируем содержимое кнопки */
    position: fixed;
