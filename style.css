@@ -180,7 +180,7 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
  /* стилизуем кнопку */
  .menu__btn {
    display: flex; /* используем flex для центрирования содержимого */
-   align-items: right;  /* центрируем содержимое кнопки */
+   align-items: center;  /* центрируем содержимое кнопки */
    position: fixed;
    top: 20px;
    width: 26px;
