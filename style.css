@@ -48,13 +48,6 @@ font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
  margin-right: 0;
 }
 
-head {
-  font-family: 'pt_serifbold';
-    src: url('fonts/ptserif-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 .menu__item_active::after {
   position: absolute;
    display: block;
@@ -153,8 +146,8 @@ head {
 }
 
 @media (max-width: 1920px) {
-  .menu {
-    display: none;
+/*  .menu {
+    display: none;*/
 }
  .header {
  margin-bottom: 28px;
