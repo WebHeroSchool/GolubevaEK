@@ -152,11 +152,10 @@ head {
  background: #0056EC;
 }
 
-@media (max-width: 1174px) and (max-width: 1940px) {
+@media (max-width: 1920px) {
   .menu {
     display: none;
 }
-
  .header {
  margin-bottom: 28px;
  }
