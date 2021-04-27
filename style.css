@@ -171,6 +171,10 @@ font: 500 16px/19px Roboto, arial, helvetica, sans-serif;
 font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
  }
 }
+
+@media (max-width: 375px) {
+  .menu__btn {
+    display: block;
  /* скрываем чекбокс */
  #menu__toggle {
    opacity: 0;
@@ -261,4 +265,5 @@ font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 }
 .menu__item {
   transition-duration: .25s;
+ }
 }
