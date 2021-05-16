@@ -108,7 +108,7 @@ body {
 
 .main {
     padding: 74px 60% 269px 0;
-    background: top right no-repeat url(img/mainimg.svg);
+    background: top right no-repeat url(img/frame.svg);
     background-size: 770px 657px;
     animation-name: move_title;
     animation-duration: 1.5s;
